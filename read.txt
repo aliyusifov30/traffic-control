@@ -1,0 +1,4 @@
+python main.py --video C:/Users/aliyu/OneDrive/Desktop/traffic_video_new.mp4 --output traffic_video_new.mp4
+
+
+pip install torch torchvision opencv-python numpy scipy matplotlib pillow filterpy
